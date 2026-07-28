@@ -2,18 +2,18 @@
 <div>
 <!-- <img align="left" src="https://visitcount.itsvg.in/api?id=a&label=Homies&color=7&icon=7&pretty=false" /> -->
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/> -->
   
 <div align="center">
 
-###### | [Jump to TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [R4TbyGW16](https://github.com/catunderrain/TO-DO/blob/main/TASK_I_HAD_DONE.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
+###### | [Jump to TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [- R4TbyGW16 -](https://github.com/catunderrain/TO-DO/blob/main/xxx.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
 </div>
 </div>
 
 ---
 <!-- Intro GIF -->
 <div align="center">
-<img src="stuffs\_.webp" style="width:100%">
+<img src="stuffs\_.gif" style="width:100%">
 
 ```python
 if __name__ == '__main__':
@@ -23,11 +23,11 @@ if __name__ == '__main__':
 
 ---
 <!-- Details -->
-<details>
-<summary>
+<!-- <details> -->
+<!-- <summary> -->
   
-###### ***Love the rain ❤️***
-</summary>
+***Love the rain ❤️***
+<!-- </summary> -->
 <!-- INTROs -->
 
 ---
@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
 <!-- INTRODUCTION -->
 <div align="center">
-<h3>🐇 My Contributions 🐇</h3>
+<h3>🐇 My Contributions 🐇 : ) ( no thing )</h3>
 <img alt="snake eating my contributions" src="profile-3d-contrib/github-contribution-grid-snake.svg" />
 <!-- Link to make svg file: https://platane.me/snk/ -->
 <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" /> -->
@@ -71,19 +71,23 @@ if __name__ == '__main__':
 <br>🫂 **Additionally, I cherish my family and aspire to leverage technological advancements to enhance people's quality of life.**
 <div align="center">
   
-> **My nickname is:**You can call me Gin<br>
+> **My nickname:** You can call me Gin<br>
 > **Contact me via github or email:** `ginwolve@gmail.com`
 
 ❤️🐇 It was a pleasure meeting you all and I hope we will progress together every day not only technically but also beyond 🐇❤️
+
+<div align="center">
+<img src="stuffs/WHAT A LIFE _ TK - 𝙬𝙝𝙖𝙩 𝙖 𝙡𝙞𝙛𝙚.gif" style="width:100%">
+</div>
 
 ***My favorite quote:***<br>
 **"Trí tuệ nhân tạo nghĩ gì khi tan biến?"**<sub>(vi)</sub>
 *\- Shiro Akabane 6-21:20 -*
 
 <!-- Visitcard -->
-__\_\_ V i s i t c a r d \_\___
+__\_\_ V i s i t c a r d \_\___ ( old )
 ```
-'''#------------------------------------------------#"""
+'''#------------------------------------------------#'''
 |                                                      |
 |      XXXX         X       XXXXXXXXX   X          X   |
 |    XX    XX    XX   XX       XX       X X      X X   |
@@ -93,7 +97,7 @@ __\_\_ V i s i t c a r d \_\___
 |      XXXX     XX     XX      XX        =====o=====   |
 |                                                      |
 |              A CATUNDERRAIN PRESENTATION             |
-'''#------------------------------------------------#"""
+'''#------------------------------------------------#'''
 ```
 <!-- Linkedin -->
   <a href="https://linkedin.com/in/xxxxxx" target="_blank">
@@ -110,12 +114,12 @@ __\_\_ V i s i t c a r d \_\___
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,php,javascript,julia,latex,md" /><br>
 </div>
 
----
+<!-- --- -->
 <!-- Code Style -->
-<h3 align="center">Old Code Style</h3>
+<!-- <h3 align="center">Old Code Style</h3>
 <div align="center">
     <img src="stuffs/image.png" />
-</div>
+</div> -->
 
 ---
 <!-- Stats -->
@@ -150,8 +154,8 @@ __\_\_ V i s i t c a r d \_\___
 
 <div align="center">
 
-`She will protect the codes of me, and you.`<br>
-`So, just donate to her.`
+`She protects the codes of us.`<br>
+`Just donate to her.`
 </div>
 
 ---
@@ -160,6 +164,7 @@ __\_\_ V i s i t c a r d \_\___
 
 ### :rabbit2: DONATION :rabbit2:
 ### <sup>**Click** -></sup> <sub><sub><sub><sub><sub>[<img src="stuffs\momo.png" style="width:40px"/>](https://github.com/catunderrain/PULL-A-REQUEST-FOR-DONATION/tree/main)</sub></sub></sub></sub></sub> <sup><- Click</sup>
+or **0365725913** : )
 
 
 ---
@@ -174,6 +179,6 @@ __\_\_ V i s i t c a r d \_\___
 <!-- END -->
 ###### - END -
 </div>
-</details>
+<!-- </details> -->
 
 
