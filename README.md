@@ -47,8 +47,8 @@ if __name__ == '__main__':
 
 <!-- INTRODUCTION -->
 <div align="center">
-<h3>🐇 My Contributions 🐇 : ) ( no thing )</h3>
-<img alt="snake eating my contributions" src="profile-3d-contrib/github-contribution-grid-snake.svg" />
+<!-- <h3>🐇 My Contributions 🐇 : ) ( no thing )</h3> -->
+<!-- <img alt="snake eating my contributions" src="profile-3d-contrib/github-contribution-grid-snake.svg" /> -->
 <!-- Link to make svg file: https://platane.me/snk/ -->
 <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" /> -->
 </div>
@@ -133,12 +133,12 @@ __\_\_ V i s i t c a r d \_\___ ( old )
 ![](profile-3d-contrib/profile-season-animate.svg)
 <!-- ![](profile-3d-contrib/profile-gitblock.svg) -->
 
-[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=catunderrain&hide_title=false&custom_title=CONTRIBUTION&grid=true&radius=16&bg_color=000000&color=ffffff&line=FFB6C1&point=AFEEEE&days=30)](https://jrohit.com.np)<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=ginxvi&hide_title=false&custom_title=CONTRIBUTION&grid=true&radius=16&bg_color=000000&color=ffffff&line=FFB6C1&point=AFEEEE&days=30)](https://jrohit.com.np)<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=catunderrain&border_radius=16&background=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&stroke=ffffff&ring=FFB6C1&fire=FFB6C1&currStreakNum=AFEEEE&sideNums=AFEEEE&currStreakLabel=FFB6C1&sideLabels=AFEEEE&dates=ffffff&excludeDaysLabel=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ginxvi&border_radius=16&background=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&stroke=ffffff&ring=FFB6C1&fire=FFB6C1&currStreakNum=AFEEEE&sideNums=AFEEEE&currStreakLabel=FFB6C1&sideLabels=AFEEEE&dates=ffffff&excludeDaysLabel=ffffff)](https://git.io/streak-stats)
 
 
-<!-- [![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&include_all_commits=false&custom_title=Catunderain&number_format=long&show=discussions_started,discussions_answere,prs_merged&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500)](https://github.com/catunderrain/github-readme-stats) -->
+[![ginxvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginxvi&theme=dracula&include_all_commits=false&custom_title=Catunderain&number_format=long&show=discussions_started,discussions_answere,prs_merged&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500)](https://github.com/catunderrain/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=100&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&exclude_repo=&hide=postscript)](https://github.com/catunderrain/github-readme-stats) -->
 
