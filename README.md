@@ -57,7 +57,7 @@ if __name__ == '__main__':
 <!-- INTRO WORDS -->
 <div align="center">
   
-### :rabbit2: INTRODUCTION :rabbit2:
+### INTRODUCTION
 ###### [🎹](https://wakatime.com/dashboard)
 </div>
 
