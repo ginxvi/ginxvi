@@ -6,7 +6,7 @@
   
 <div align="center">
 
-###### | [Jump to TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [TASKSDONE](https://github.com/catunderrain/TO-DO/blob/main/TASK_I_HAD_DONE.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
+###### | [Jump to TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [R4TbyGW16](https://github.com/catunderrain/TO-DO/blob/main/TASK_I_HAD_DONE.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
 </div>
 </div>
 
@@ -17,7 +17,7 @@
 
 ```python
 if __name__ == '__main__':
-  life = Continue(learn)
+    life = continue_to(&learn)
 ```
 </div>
 
@@ -61,7 +61,7 @@ if __name__ == '__main__':
 ###### [🎹](https://wakatime.com/dashboard)
 </div>
 
-❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI learner.**
+❤️ **Hi! My name is Gin, I'm from Viet Nam and I'm an AI learner.**
 <br>✨ **With three years of in-depth research in machine learning, I aim to apply AI and machine learning to practical applications that assist humans, particularly in audio and image signal processing.**
 <br>🔭 **My goal is to promote the development of machines that can operate artistically and academically alongside humans.**
 <br>🎸 **I enjoy playing musical instruments, particularly the piano and guitar, and I have a keen interest in music and art.**
@@ -71,10 +71,10 @@ if __name__ == '__main__':
 <br>🫂 **Additionally, I cherish my family and aspire to leverage technological advancements to enhance people's quality of life.**
 <div align="center">
   
-> **My nickname is:** Cat Under Rain, but you can call me Toan<br>
-> **Contact me via github or email:** `catunderrainvn@gmail.com`
+> **My nickname is:**You can call me Gin<br>
+> **Contact me via github or email:** `ginwolve@gmail.com`
 
-❤️**🐇It was a pleasure meeting you all and I hope we will progress together every day not only technically but also beyond** 🐇❤️
+❤️🐇 It was a pleasure meeting you all and I hope we will progress together every day not only technically but also beyond 🐇❤️
 
 ***My favorite quote:***<br>
 **"Trí tuệ nhân tạo nghĩ gì khi tan biến?"**<sub>(vi)</sub>
@@ -96,7 +96,7 @@ __\_\_ V i s i t c a r d \_\___
 '''#------------------------------------------------#"""
 ```
 <!-- Linkedin -->
-  <a href="https://linkedin.com/in/thaitoan" target="_blank">
+  <a href="https://linkedin.com/in/xxxxxx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
@@ -104,7 +104,7 @@ __\_\_ V i s i t c a r d \_\___
 </div>
 
 <!-- Frameworks - Tools - Languages -->
-<h3 align="center">🐇 Frameworks - Tools - Languages 🐇</h3>
+<h3 align="center">🐇 Frameworks - Tools - Languages (j4f) 🐇</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flask,mysql,vscode,git,r,docker,linux,notion,opencv,pytorch" />
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,php,javascript,julia,latex,md" /><br>
@@ -112,7 +112,7 @@ __\_\_ V i s i t c a r d \_\___
 
 ---
 <!-- Code Style -->
-<h3 align="center">🐇 Code Style 🐇</h3>
+<h3 align="center">Old Code Style</h3>
 <div align="center">
     <img src="stuffs/image.png" />
 </div>
@@ -120,11 +120,11 @@ __\_\_ V i s i t c a r d \_\___
 ---
 <!-- Stats -->
 
-<h3 align="center">🐇 Stats 🐇</h3>
+<h3 align="center">Stats</h3>
 <div align="center">
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=oldie&margin-w=0&margin-h=0&column=8&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=gruvbox&margin-w=0&margin-h=0&column=9&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=gruvbox&margin-w=0&margin-h=0&column=9&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 <!-- ![](profile-3d-contrib/profile-gitblock.svg) -->
@@ -134,18 +134,18 @@ __\_\_ V i s i t c a r d \_\___
 [![GitHub Streak](https://streak-stats.demolab.com/?user=catunderrain&border_radius=16&background=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&stroke=ffffff&ring=FFB6C1&fire=FFB6C1&currStreakNum=AFEEEE&sideNums=AFEEEE&currStreakLabel=FFB6C1&sideLabels=AFEEEE&dates=ffffff&excludeDaysLabel=ffffff)](https://git.io/streak-stats)
 
 
-[![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&include_all_commits=false&custom_title=Catunderain&number_format=long&show=discussions_started,discussions_answere,prs_merged&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500)](https://github.com/catunderrain/github-readme-stats)
+<!-- [![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&include_all_commits=false&custom_title=Catunderain&number_format=long&show=discussions_started,discussions_answere,prs_merged&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500)](https://github.com/catunderrain/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=100&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&exclude_repo=&hide=postscript)](https://github.com/catunderrain/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=100&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&exclude_repo=&hide=postscript)](https://github.com/catunderrain/github-readme-stats) -->
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@catunderrain&theme=dracula&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/github-readme-stats)
+<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@catunderrain&theme=dracula&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/github-readme-stats) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catunderrain&repo=catunderrain&theme=dracula&show_owner=true&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/catunderrain)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catunderrain&repo=catunderrain&theme=dracula&show_owner=true&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/catunderrain) -->
 </div>
 
 ---
 <!-- Guardian -->
-<h3 align="center">🐇 MY GUARDIAN 🐇</h3>
+<h3 align="center">MY GUARDIAN</h3>
 <img src="stuffs/guardianX4.png" style="width:100%">
 
 <div align="center">
@@ -161,12 +161,6 @@ __\_\_ V i s i t c a r d \_\___
 ### :rabbit2: DONATION :rabbit2:
 ### <sup>**Click** -></sup> <sub><sub><sub><sub><sub>[<img src="stuffs\momo.png" style="width:40px"/>](https://github.com/catunderrain/PULL-A-REQUEST-FOR-DONATION/tree/main)</sub></sub></sub></sub></sub> <sup><- Click</sup>
 
----
-<!-- FAVORITEs -->
-### :rabbit2: MY FAVORITE STUFFS :rabbit2:
-
-[![](https://skillicons.dev/icons?i=styledcomponents&perline=1)](#)
-<br>S t y l e d C o m p o n e n t s : )
 
 ---
 <!-- OUTTRO + GIF -->
@@ -174,10 +168,12 @@ __\_\_ V i s i t c a r d \_\___
 
 <img src="stuffs\tải xuống.gif" style="width:100%">
 
-**"** . I l o v e t h e r a i n . **"**
+**"** J u s t l o v e t h e r a i n **"**
 
 ---
 <!-- END -->
 ###### - END -
 </div>
 </details>
+
+
